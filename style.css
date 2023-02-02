@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Cloister Black', sans-serif;
+                                                
+}
+
+div{
+    background-image: url("Texture.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
